@@ -1,0 +1,121 @@
+body {
+    background-image: url("../images/back.jpg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid pink;
+    padding: 20px; 
+}
+.head h1 {
+    font: 30px bolder;
+    text-align: center;
+    color: pink;
+    font-family: 'Times New Roman';
+}
+.head img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid pink;
+    padding: 3px;
+    border-radius: 100%;
+    box-shadow: 0 15px 20px 0 rgba(0, 0, 0, 0.25); 
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+.head a h2 {
+    text-align: center;
+    color: pink;
+    text-decoration: none;
+    border-radius: 8px;
+    font-family: 'Times New Roman';
+}
+a h2:hover{
+    border: 2px solid pink;
+    color: pink;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 3px;
+}
+.Self.intro h3 { 
+    text-align: left;
+    color: pink;
+    border: 3px transparent;
+    background-color: black;
+}
+
+.Self.intro p {
+    text-align: center;
+    color: pink;
+    font-family: Arial;
+}
+
+.Educational h4 {
+    font-family: Arial; 
+    color: pink;
+    background-color: black;
+}
+
+.Educational hr {
+    margin-top: 5px;
+}
+
+.Educational thead {
+    background-color: black;
+    color: pink	;
+    font-family: Arial; 
+}
+
+.Educational tbody {
+    color: pink;
+    font-family: Arial; 
+}
+.Educational table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.Educational table th{
+    border: 1px solid pink;
+    padding: 8px;
+}
+.Educational table td{
+    border: 1px solid pink;
+    padding: 8px;
+}
+.Expertise h3 {
+    text-align: left;
+    color: pink;
+    border: transparent;
+    background-color: black;
+    font-family: Arial; 
+}
+
+.Expertise ul {
+    color: pink;
+    font-family: Arial; 
+    list-style-type: square;
+}
+
+.IT-Background h4 {
+    color: pink;
+    font-family: Arial; 
+    border: 2px transparent;
+    background-color: black;
+}
+
+.IT-Background p {
+    color: pink;
+    font-family: Arial; 
+}
+
+.Applications h4 { 
+    color: pink;
+    font-family: Arial; 
+    border: 2px transparent;
+    background-color: pink;
+}
+
+.Applications ul {
+    color: pink;
+    font-family: Arial; 
+}
